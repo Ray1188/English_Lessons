@@ -122,5 +122,30 @@ Ex. 4
 12. could
 13. would
 14. seen
-
+----------------------------------------------------------------
 which that who why - якщо після них іменник і займенник
+
+#Clauses
+p.78 Ex.1
+1.H
+2.d
+3.g
+4.b
+5.E.
+6.I
+7.c
+8.A
+
+Ex.2 1.ND 2.ND 3.D 4.ND 5.D 6.ND 7.D 8.ND
+Ex.3 1.A. 2.b 3.a 4.b
+Ex.4 
+1.who
+2.that
+3.where
+4.which
+5.where
+6.that
+7.which
+8.that
+9.who
+10.who
