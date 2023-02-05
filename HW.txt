@@ -140,12 +140,18 @@ Ex.2 1.ND 2.ND 3.D 4.ND 5.D 6.ND 7.D 8.ND
 Ex.3 1.A. 2.b 3.a 4.b
 Ex.4 
 1.who
-2.that
+2.whose
 3.where
 4.which
 5.where
 6.that
 7.which
 8.that
-9.who
-10.who
+9.whom
+10.whose
+
+1. with in the end
+we inherited the house from
+to get to
+left the papers on
+jump out of
