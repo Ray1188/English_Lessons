@@ -19,3 +19,7 @@ this ensures - это гарантирует
 derived - полученный
 despite - не смотря на, вопреки
 won't experience - не испытаете
+conversation - розмова, бесіда
+
+доповідач - speaker, reporter, presenter 
+підозри - concerns, suspicion, allegation
