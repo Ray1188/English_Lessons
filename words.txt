@@ -35,5 +35,5 @@ distinguish - различать, отличать
 I guess - наверное
 i guess you - я думаю, вы
 implying - подразумевая
-rebase
 bla bla
+merge
