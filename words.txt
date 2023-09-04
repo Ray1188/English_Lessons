@@ -37,3 +37,4 @@ i guess you - я думаю, вы
 implying - подразумевая
 bla bla
 merge
+go to rebase
